@@ -53,7 +53,7 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 - [IDA](https://hex-rays.com/ida-free/) - Most used reverse engineering software
 - [Ltrace](https://www.tutorialspoint.com/unix_commands/ltrace.htm) - Intercepts and records dynamic library calls
 - [llvm](https://github.com/llvm/llvm-project) - Low Level Virtual Machine: Optimize your low level codes
-- [nasm](https://github.com/netwide-assembler/nasm) - Cross Platform x86 assember: Only Intel syntax supported
+- [nasm](https://github.com/netwide-assembler/nasm) - Cross Platform x86 assember: Only Intel syntax supported <span style="color:blue">some *blue* text</span>
 
 ## Steganography
 - [AudioStego](https://github.com/danielcardeenas/AudioStego)
