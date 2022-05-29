@@ -16,6 +16,7 @@ This is a non-exhaustive list of websites and hacking tools used by hackers for 
 - [Pycryptodome](https://github.com/Legrandin/pycryptodome) - A python library to handle cryptography
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
 - [HashExtender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
+- [FactorDB](http://www.factordb.com/) - Get the primes of a given *n* number
 
 ## Forensic
 - [Scalpel](https://github.com/sleuthkit/scalpel) - Open source data carving tool
@@ -45,6 +46,7 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 - [PwnTools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 
 ## Reverse
+- [GDB](https://www.sourceware.org/gdb/) - The GNU Project Debugger
 - [Radare2](https://github.com/radareorg/radare2) - Lighweight reverse engineering tool
 - [IDA](https://hex-rays.com/ida-free/) - Most used reverse engineering software
 - [Ltrace](https://www.tutorialspoint.com/unix_commands/ltrace.htm) - Intercepts and records dynamic library calls
@@ -68,6 +70,7 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 ## System
 - [Metasploit](https://github.com/rapid7/metasploit-framework) - Penetration testing software & Framework
 - [v0lt](https://github.com/P1kachu/v0lt) - Security CTF Toolkit
+- [LinPeas](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS) - Linux Privilege Escalation Awesome Script
 
 ## Web
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
