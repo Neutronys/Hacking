@@ -49,11 +49,11 @@
   - [Web](#Web)
     - [Raccoon](#Raccoon)
     - [SQLMap](#SQLMap)
-- [General]
+- [General](#General)
   - [HexEdit](#HexEdit)
   - [CyberChef](#CyberChef)
   - [Root-Me](#Root-Me)
-- [Wikis]
+- [Wikis](#Wikis)
   - [bi0s](#bi0s)
   - [OpenToAllCTF](#OpenToAllCTF)
 
