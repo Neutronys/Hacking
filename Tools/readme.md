@@ -71,13 +71,15 @@
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
+- [PayloalsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - List of useful payloads and bypass for Web Application Security
 
 ## General
 - [HexEdit](https://hexed.it/) - Hexadecimal online ditor
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data
 - [Root-Me](https://www.root-me.org/) - Website to learn hacking
 - [CTFTools](https://github.com/zardus/ctf-tools) - List of many CTF tools
-- [HackingTool](https://github.com/Z4nzu/hackingtool) - ALL-IN-ONE Hacking tool for Hackers 
+- [HackingTool](https://github.com/Z4nzu/hackingtool) - ALL-IN-ONE Hacking tool for Hackers
+- [HackingTutorials](https://www.hacking-tutorial.com/) - Collection of hundreds of tutorials on ethical hacking and cybersecurity.
 
 ## Wikis
 - [bi0s](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki made by the team *bi0s*
