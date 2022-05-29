@@ -72,6 +72,7 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 - [Aperi'Solve](https://www.aperisolve.fr/) - Aperi'Solve is a platform which performs layer analysis on image
 - [zSteg](https://github.com/zed-0xff/zsteg) - PNG / BMP image analysis
 - [Outguess](https://github.com/resurrecting-open-source-projects/outguess) - Universal steganographic tool
+- [steg86](https://github.com/woodruffw/steg86) - Hide/fetch datas in x86 files (PE, ELF, ...)
 
 ## System
 - [Metasploit](https://github.com/rapid7/metasploit-framework) - Penetration testing software & Framework
@@ -84,6 +85,7 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 - [PayloalsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - List of useful payloads and bypass for Web Application Security
+- [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Hydra services bruteforcer
 
 ## General
 - [HexEdit](https://hexed.it/) - Hexadecimal online editor
