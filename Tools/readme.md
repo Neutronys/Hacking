@@ -17,6 +17,8 @@ This is a non-exhaustive list of websites and hacking tools used by hackers for 
 - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
 - [HashExtender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
 - [FactorDB](http://www.factordb.com/) - Get the primes of a given *n* number
+- [HashCat](https://github.com/hashcat/hashcat) - Password recovery utility
+- [JohnTheRipper](https://github.com/openwall/john) - Password cracker
 
 ## Forensic
 - [Scalpel](https://github.com/sleuthkit/scalpel) - Open source data carving tool
