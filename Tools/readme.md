@@ -7,6 +7,8 @@
 - [Ethereum](https://ethereum.org/en/developers/docs/) - Ethreum official documentation
 
 ## Cryptography
+- [SageMath](https://www.cryptool.org/) -  Free open-source mathematics software system
+- [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
 - [QuipQuip](https://quipqiup.com/) - An online tool for breaking substitution ciphers or vigenere ciphers
 - [OpenSSL](https://github.com/openssl/openssl) - openSSL official documentation
 - [Pycryptodome](https://github.com/Legrandin/pycryptodome) - A python library to handle cryptography
@@ -14,6 +16,7 @@
 - [HashExtender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
 
 ## Forensic
+- [Scalpel](https://github.com/sleuthkit/scalpel) - Open source data carving tool
 - [Volatility](https://github.com/volatilityfoundation/volatility) - To investigate memory dumps
 - [Audacity](https://www.audacityteam.org/) - Free software to analyse sound files
 - [Aircrack-Ng](https://github.com/aircrack-ng/aircrack-ng) - Crack 802.11 WEP and WPA-PSK keys
@@ -22,15 +25,18 @@
 
 ## Network
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
-- [BurpSuite](https://portswigger.net/burp) - SA graphical tool to testing website security
+- [BurpSuite](https://portswigger.net/burp) - A graphical tool to testing website security
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
 - [Nmap](https://github.com/nmap/nmap) - An open source utility for network discovery and security auditing
 
 # Osint
 - [GoogleMap](https://www.google.com/maps) - Map of the world
 - [WebArchive](https://archive.org/web/) - Wayback machine
-
-## Programming
+- [CheckUsernames](https://checkusernames.com/) - Check usernames on socila medias
+- [TheHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester
+- [XRay](https://github.com/evilsocket/xray) - A tool for recon, mapping and OSINT gathering from public networks
+- [Trape](https://github.com/jofpin/trape) - People tracker on the Internet
+- [Moriarty](https://github.com/AzizKpln/Moriarty-Project) - Collects information from phone numbers
 
 ## Pwn
 - [PwnTools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
@@ -39,8 +45,6 @@
 - [Radare2](https://github.com/radareorg/radare2) - Lighweight reverse engineering tool
 - [IDA](https://hex-rays.com/ida-free/) - Most used reverse engineering software
 - [Ltrace](https://www.tutorialspoint.com/unix_commands/ltrace.htm) - Intercepts and records dynamic library calls
-
-## Sequence
 
 ## Steganography
 - [AudioStego](https://github.com/danielcardeenas/AudioStego)
@@ -66,12 +70,14 @@
 - [Raccoon](https://github.com/evyatarmeged/Raccoon) - A high performance offensive security tool for reconnaissance and vulnerability scanning
 - [SQLMap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework
+- [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor
 
 ## General
 - [HexEdit](https://hexed.it/) - Hexadecimal online ditor
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data
 - [Root-Me](https://www.root-me.org/) - Website to learn hacking
 - [CTFTools](https://github.com/zardus/ctf-tools) - List of many CTF tools
+- [HackingTool](https://github.com/Z4nzu/hackingtool) - ALL-IN-ONE Hacking tool for Hackers 
 
 ## Wikis
 - [bi0s](https://teambi0s.gitlab.io/bi0s-wiki/) - Wiki made by the team *bi0s*
