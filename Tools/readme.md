@@ -49,6 +49,7 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 - [PwnTools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 
 ## Reverse
+- [ShellStorm](https://shell-storm.org/online/Online-Assembler-and-Disassembler/) - Online Assembler / Disassembler
 - [GDB](https://www.sourceware.org/gdb/) - The GNU Project Debugger
 - [AS](https://manpages.ubuntu.com/manpages/kinetic/en/man1/as.1.html) - The GNU Assembler
 - [Radare2](https://github.com/radareorg/radare2) - Lighweight reverse engineering tool
