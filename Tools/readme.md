@@ -74,7 +74,7 @@
 - [PayloalsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - List of useful payloads and bypass for Web Application Security
 
 ## General
-- [HexEdit](https://hexed.it/) - Hexadecimal online ditor
+- [HexEdit](https://hexed.it/) - Hexadecimal online editor
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data
 - [Root-Me](https://www.root-me.org/) - Website to learn hacking
 - [CTFTools](https://github.com/zardus/ctf-tools) - List of many CTF tools
