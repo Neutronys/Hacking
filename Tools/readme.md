@@ -15,6 +15,7 @@
   - [Reverse](#Reverse)
   - [Sequence](#Sequence)
   - [Steganography](#Steganography)
+    - [Binwalk](#Binwalk)
   - [System](#System)
   - [Web](#Web)
 
