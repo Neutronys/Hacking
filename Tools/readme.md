@@ -16,6 +16,10 @@
   - [Sequence](#Sequence)
   - [Steganography](#Steganography)
     - [Binwalk](#Binwalk)
+    - [StegSeek](#StegSeek)
+    - [StegHide](#Steghide)
+    - [Aperi'Solve](#Aperi'Solve)
+    - [zSteg](#zSteg)
   - [System](#System)
   - [Web](#Web)
 
@@ -44,6 +48,8 @@
 ### Sequence
 
 ### Steganography
+
+#### Binwalk
 
 ### System
 
