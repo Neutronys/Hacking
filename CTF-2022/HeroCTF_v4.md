@@ -20,44 +20,44 @@ Github   : https://github.com/HeroCTF
 
 | Name                                                                    | Category      | Author     | Difficulty  | Done |
 |-------------------------------------------------------------------------|:-------------:|:----------:|:-----------:|:----:|
-| [Painting](Misc/Painting)                                               | Misc          | SoEasY     | Easy        |  ✅  |
-| [Redacted](Misc/Redacted/)                                              | Misc          | Log\_s     | Medium      |  ✅  |
-| [pyjAil iS Mad](Misc/pyjAil_iS_Mad/)                                    | Misc          | Log\_s     | Hard        |  ✅  |
-| [Heist](Prog/heist/)                                                    | Prog          | Log\_s     | Easy        |  ✅  |
-| [Pixel Poney](Prog/pixel_poney/)                                        | Prog          | Log\_s     | Easy        |  ✅  |
-| [Overload](Prog/Overload/)                                              | Prog          | xanhacks   | Easy        |  ✅  |
-| [SSHs](Prog/SSHs/)                                                      | Prog          | Log\_s     | Medium      |  ✅  |
-| [Deadalus](Prog/deadalus/)                                              | Prog          | Log\_s     | Hard        |  ✅  |
-| [SmallMistakeBigMistake](Web/SmallMistakeBigMistake/)                   | Web           | xanhacks   | Easy        |  ✅  |
-| [$ where backdoor](Web/whereBackdoor/)                                  | Web           | Log\_s     | Medium      |  ✅  |
-| [BlackCat](Web/BlackCat/)                                               | Web           | Worty      | Medium      |  ✅  |
-| [FlowerCDN](Web/FlowerCDN/)                                             | Web           | Worty      | Hard        |  ✅  |
-| [Undercorver #1](System/undercover1/)                                   | System        | Log\_s     | Easy        |  ✅  |
-| [Undercorver #2](System/undercover2/)                                   | System        | Log\_s     | Medium      |  ✅  |
-| [BlackOps](System/BlackOps/)                                            | System        | Log\_s     | Hard        |  ✅  |
-| [Starlink](System/Starlink/)                                            | System        | Log\_s     | Hard        |  ✅  |
-| [GetRickRolledInSuround](Steganography/GetRickRolledInSuround/)         | Steganography | Log\_s     | Medium      |  ✅  |
-| [Ange](Steganography/Ange/)                                             | Steganography | Thibz      | Medium      |  ✅  |
-| [ItAlsoExistsOnAudioFiles](Steganography/ItAlsoExistsOnAudioFiles/)     | Steganography | Thibz      | Medium      |  ✅  |
-| [HyperCube%7](Steganography/HyperCube7/)                                | Steganography | Thibz      | Hard        |  ✅  |
-| [LSD](Steganography/LSD/)                                               | Steganography | Thibz      | Medium      |  ✅  |
-| [Poly321](Crypto/Poly321/)                                              | Crypto        | xanhacks   | Easy        |  ✅  |
-| [The oracle's apprentice](Crypto/Oracles_apprentice/)                   | Crypto        | yarienkiva | Easy        |  ✅  |
-| [Welcome](OSINT/welcome/)                                               | OSINT         | Log\_s     | Easy        |  ✅  |
-| [HeroGuessr #1](OSINT/HeroGuessr#1/)                                    | OSINT         | yarienkiva | Easy        |  ✅  |
-| [HeroGuessr #2](OSINT/HeroGuessr#2/)                                    | OSINT         | yarienkiva | Hard        |  ✅  |
-| [Stickerz#1](OSINT/Stickerz1/)                                          | OSINT         | yarienkiva | Easy        |  ✅  |
-| [Stickerz#2](OSINT/Stickerz2/)                                          | OSINT         | yarienkiva | Medium      |  ✅  |
-| [Impossible](Pwn/Impossible/)                                           | Pwn           | SoEasY     | Easy        |  ✅  |
-| [Login](Pwn/Login/)                                                     | Pwn           | SoEasY     | Easy        |  ✅  |
-| [Generator](Pwn/Generator)                                              | Pwn           | SoEasY     | Medium      |  ✅  |
-| [aargh](Pwn/aargh/)                                                     | Pwn           | SoEasY     | Hard        |  ✅  |
-| [MVBN](Reverse/MVBN/)                                                   | Reverse       | SoEasY     | Easy        |  ✅  |
-| [sELF control v2](Reverse/sELF_control_v2/)                             | Reverse       | SoEasY     | Medium      |  ✅  |
-| [Resolver](Reverse/Resolver/)                                           | Reverse       | SoEasY     | Medium      |  ✅  |
-| [Turing](Reverse/Turing/)                                               | Reverse       | SoEasY     | Hard        |  ❌  |
-| [My Passwords](Forensics/MyPasswords)				                      | Forensics     | Worty      | Easy        |  ✅  |
-| [Where all problems starts 1/4](Forensics/Where_All_Problem_Starts_1-4) | Forensics     | Worty      | Easy        |  ✅  |
-| [Where all problems starts 2/4](Forensics/Where_All_Problem_Starts_2-4) | Forensics     | Worty      | Very hard   |  ✅  |
-| [Where all problems starts 3/4](Forensics/Where_All_Problem_Starts_3-4) | Forensics     | Worty      | Medium      |  ✅  |
-| [Where all problems starts 4/4](Forensics/Where_All_Problem_Starts_4-4) | Forensics     | Worty      | Hard        |  ✅  |
+| [Painting](Writeups/Miscellaneous/Painting)                                      | Misc          | SoEasY     | Easy        |  ✅  |
+| [Redacted](Writeups/Miscellaneous/Redacted/)                                     | Misc          | Log\_s     | Medium      |  ✅  |
+| [pyjAil iS Mad](Writeups/Miscellaneous/pyjAil_iS_Mad/)                           | Misc          | Log\_s     | Hard        |  ✅  |
+| [Heist](Writeups/Programming/heist/)                                                    | Prog          | Log\_s     | Easy        |  ✅  |
+| [Pixel Poney](Writeups/Programming/pixel_poney/)                                        | Prog          | Log\_s     | Easy        |  ✅  |
+| [Overload](Writeups/Programming/Overload/)                                              | Prog          | xanhacks   | Easy        |  ✅  |
+| [SSHs](Writeups/Programming/SSHs/)                                                      | Prog          | Log\_s     | Medium      |  ✅  |
+| [Deadalus](Writeups/Programming/deadalus/)                                              | Prog          | Log\_s     | Hard        |  ✅  |
+| [SmallMistakeBigMistake](Writeups/Web/SmallMistakeBigMistake/)                   | Web           | xanhacks   | Easy        |  ✅  |
+| [$ where backdoor](Writeups/Web/whereBackdoor/)                                  | Web           | Log\_s     | Medium      |  ✅  |
+| [BlackCat](Writeups/Web/BlackCat/)                                               | Web           | Worty      | Medium      |  ✅  |
+| [FlowerCDN](Writeups/Web/FlowerCDN/)                                             | Web           | Worty      | Hard        |  ✅  |
+| [Undercorver #1](Writeups/System/undercover1/)                                   | System        | Log\_s     | Easy        |  ✅  |
+| [Undercorver #2](Writeups/System/undercover2/)                                   | System        | Log\_s     | Medium      |  ✅  |
+| [BlackOps](Writeups/System/BlackOps/)                                            | System        | Log\_s     | Hard        |  ✅  |
+| [Starlink](Writeups/System/Starlink/)                                            | System        | Log\_s     | Hard        |  ✅  |
+| [GetRickRolledInSuround](Writeups/Steganography/GetRickRolledInSuround/)         | Steganography | Log\_s     | Medium      |  ✅  |
+| [Ange](Writeups/Steganography/Ange/)                                             | Steganography | Thibz      | Medium      |  ✅  |
+| [ItAlsoExistsOnAudioFiles](Writeups/Steganography/ItAlsoExistsOnAudioFiles/)     | Steganography | Thibz      | Medium      |  ✅  |
+| [HyperCube%7](Writeups/Steganography/HyperCube7/)                                | Steganography | Thibz      | Hard        |  ✅  |
+| [LSD](Writeups/Steganography/LSD/)                                               | Steganography | Thibz      | Medium      |  ✅  |
+| [Poly321](Writeups/Cryptography/Poly321/)                                              | Crypto        | xanhacks   | Easy        |  ✅  |
+| [The oracle's apprentice](Writeups/Cryptography/Oracles_apprentice/)                   | Crypto        | yarienkiva | Easy        |  ✅  |
+| [Welcome](Writeups/Osint/welcome/)                                               | OSINT         | Log\_s     | Easy        |  ✅  |
+| [HeroGuessr #1](Writeups/Osint/HeroGuessr#1/)                                    | OSINT         | yarienkiva | Easy        |  ✅  |
+| [HeroGuessr #2](Writeups/Osint/HeroGuessr#2/)                                    | OSINT         | yarienkiva | Hard        |  ✅  |
+| [Stickerz#1](Writeups/Osint/Stickerz1/)                                          | OSINT         | yarienkiva | Easy        |  ✅  |
+| [Stickerz#2](Writeups/Osint/Stickerz2/)                                          | OSINT         | yarienkiva | Medium      |  ✅  |
+| [Impossible](Writeups/Pwn/Impossible/)                                           | Pwn           | SoEasY     | Easy        |  ✅  |
+| [Login](Writeups/Pwn/Login/)                                                     | Pwn           | SoEasY     | Easy        |  ✅  |
+| [Generator](Writeups/Pwn/Generator)                                              | Pwn           | SoEasY     | Medium      |  ✅  |
+| [aargh](Writeups/Pwn/aargh/)                                                     | Pwn           | SoEasY     | Hard        |  ✅  |
+| [MVBN](Writeups/Reverse/MVBN/)                                                   | Reverse       | SoEasY     | Easy        |  ✅  |
+| [sELF control v2](Writeups/Reverse/sELF_control_v2/)                             | Reverse       | SoEasY     | Medium      |  ✅  |
+| [Resolver](Writeups/Reverse/Resolver/)                                           | Reverse       | SoEasY     | Medium      |  ✅  |
+| [Turing](Writeups/Reverse/Turing/)                                               | Reverse       | SoEasY     | Hard        |  ❌  |
+| [My Passwords](Writeups/Forensic/MyPasswords)				                      | Forensics     | Worty      | Easy        |  ✅  |
+| [Where all problems starts 1/4](Writeups/Forensic/Where_All_Problem_Starts_1-4) | Forensics     | Worty      | Easy        |  ✅  |
+| [Where all problems starts 2/4](Writeups/Forensic/Where_All_Problem_Starts_2-4) | Forensics     | Worty      | Very hard   |  ✅  |
+| [Where all problems starts 3/4](Writeups/Forensic/Where_All_Problem_Starts_3-4) | Forensics     | Worty      | Medium      |  ✅  |
+| [Where all problems starts 4/4](Writeups/Forensic/Where_All_Problem_Starts_4-4) | Forensics     | Worty      | Hard        |  ✅  |
