@@ -1,0 +1,35 @@
+---
+name: It Also Exists On Audio Files
+author: Thib
+category: Steganography
+description: "Did you know that wave files are composed of frames?? It opens the field of possibilities!
+
+
+Format : Hero{flag}<br>Author : Thib"
+
+value: null
+type: dynamic
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+image: null
+host: null
+
+flags:
+    - {
+        type: "static",
+        content: "Hero{L5B_0N_4UD10}",
+        data: "case_insensitive",
+    }
+
+tags:
+    - medium
+    - stega
+
+files:
+    - song_embedded.wav
+
+state: visible 
+version: "0.1"

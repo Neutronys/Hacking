@@ -1,0 +1,34 @@
+---
+name: $ where backdoor
+author: Log_s
+category: Web
+description: "These web masters are trying to show off their skills. But in reality, there are kind of lazy. They left a backdoor on the server for them to do some maintenance. Find it, exploit it :)
+
+
+- [https://wherebackdoor.web.heroctf.fr](https://wherebackdoor.web.heroctf.fr)
+
+
+Format : Hero{flag}<br>Author : Log_s"
+value: null
+type: dynamic
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+image: null
+host: null
+
+flags:
+    - {
+        type: "static",
+        content: "Hero{1nv1s1b1e_b4ckd0or_w7f}",
+        data: "case_insensitive",
+    }
+
+tags:
+    - medium
+    - web
+
+state: visible 
+version: "0.1"

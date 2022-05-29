@@ -1,0 +1,35 @@
+---
+name: LSD
+author: Thib
+category: Steganography
+description: "Don't try to throw random tools at this poor image. Go back to the basics and learn the detection techniques.
+
+
+Format : Hero{flag}<br>Author : Thib"
+
+value: null
+type: dynamic
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
+
+image: null
+host: null
+
+flags:
+    - {
+        type: "static",
+        content: "Hero{L5B_D14G_0R1G1N4L_N0P_?}",
+        data: "case_insensitive",
+    }
+
+tags:
+    - medium
+    - stega
+
+files:
+    - secret.png
+
+state: visible 
+version: "0.1"
