@@ -43,6 +43,7 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 - [XRay](https://github.com/evilsocket/xray) - A tool for recon, mapping and OSINT gathering from public networks
 - [Trape](https://github.com/jofpin/trape) - People tracker on the Internet
 - [Moriarty](https://github.com/AzizKpln/Moriarty-Project) - Collects information from phone numbers
+- [Google Lens](https://lens.google/intl/fr/) - Image Recognition
 
 ## Pwn
 - [PwnTools](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
