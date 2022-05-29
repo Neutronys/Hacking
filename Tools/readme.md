@@ -6,85 +6,62 @@
   - [Algo](#Algo)
   - [Blockchain](#Bockchain)
   - [Cryptography](#Cryptography)
-    - [OpenSSL](#OpenSSL)
-    - [Pycryptodome](#Pycryptodome)
-    - [RsaCtfTool](#RsaCtfTool)
-    - [HashExtender](#HashExtender)
+    - [QuipQuip](https://quipqiup.com/)
+    - [OpenSSL](https://github.com/openssl/openssl)
+    - [Pycryptodome](https://github.com/Legrandin/pycryptodome)
+    - [RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
+    - [HashExtender](https://github.com/iagox86/hash_extender)
   - [Forensic](#Forensic)
-    - [Volatility](#Volatility)
-    - [Audacity](#Audacity)
-    - [Aircrack-Ng](#Aircrack-Ng)
+    - [Volatility](https://github.com/volatilityfoundation/volatility)
+    - [Audacity](https://www.audacityteam.org/)
+    - [Aircrack-Ng](https://github.com/aircrack-ng/aircrack-ng)
   - [Miscellaneous](#Miscellaneous)
   - [Network](#Network)
-    - [Wireshark](#Wireshark)
-    - [BurpSuite](#BurpSuite)
-    - [Masscan](#Masscan)
-    - [Nmap](#Nmap)
+    - [Wireshark](https://www.wireshark.org/)
+    - [BurpSuite](https://portswigger.net/burp)
+    - [Masscan](https://github.com/robertdavidgraham/masscan)
+    - [Nmap](https://github.com/nmap/nmap)
   - [Osint](#Osint)
-    - [GoogleMap](#GoogleMap)
-    - [WebArchive](#WebArchive)
+    - [GoogleMap](https://www.google.com/maps)
+    - [WebArchive](https://archive.org/web/)
   - [Programming](#Programming)
   - [Pwn](#Pwn)
+    - [PwnTools](https://github.com/Gallopsled/pwntools)
   - [Reverse](#Reverse)
-    - [Radare2](#Radare2)
-    - [IDA](#IDA)
-    - [Ltrace](#Ltrace)
-    - [Rabin2](#Rabin2)
+    - [Radare2](https://github.com/radareorg/radare2)
+    - [IDA](https://hex-rays.com/ida-free/)
+    - [Ltrace](https://www.tutorialspoint.com/unix_commands/ltrace.htm)
   - [Sequence](#Sequence)
   - [Steganography](#Steganography)
-    - [AudioStego](#AudioStego)
-    - [Binwalk](#Binwalk)
-    - [ExifTool](#ExifTool)
-    - [File](#File)
-    - [Foremost](#Foremost)
-    - [StegDetect](#StegDetect)
-    - [StegSeek](#StegSeek)
-    - [StegHide](#Steghide)
+    - [AudioStego](https://github.com/danielcardeenas/AudioStego)
+    - [Binwalk](https://github.com/ReFirmLabs/binwalk)
+    - [ExifTool](https://github.com/exiftool/exiftool)
+    - [File](https://www.geeksforgeeks.org/file-command-in-linux-with-examples/)
+    - [Foremost](https://github.com/korczis/foremost)
+    - [StegDetect](https://github.com/abeluck/stegdetect)
+    - [StegSeek](https://github.com/RickdeJager/stegseek)
+    - [StegHide](https://salsa.debian.org/pkg-security-team/steghide)
     - [StegSolve](#StegSolve)
     - [Strings](#Strings)
-    - [StegOnline](#StegOnline)
-    - [Aperi'Solve](#Aperi'Solve)
-    - [zSteg](#zSteg)
+    - [StegOnline](https://stegonline.georgeom.net/upload)
+    - [Aperi'Solve](https://www.aperisolve.fr/)
+    - [zSteg](https://github.com/zed-0xff/zsteg)
+    - [Outguess](https://github.com/resurrecting-open-source-projects/outguess)
   - [System](#System)
+    - [Metasploit](https://github.com/rapid7/metasploit-framework)
+    - [v0lt](https://github.com/P1kachu/v0lt)
   - [Web](#Web)
-    - [Raccoon](#Raccoon)
-    - [SQLMap](#SQLMap)
+    - [Raccoon](https://github.com/evyatarmeged/Raccoon)
+    - [SQLMap](https://github.com/sqlmapproject/sqlmap)
+    - [W3af](https://github.com/andresriancho/w3af)
 - [General](#General)
-  - [HexEdit](#HexEdit)
-  - [CyberChef](#CyberChef)
-  - [Root-Me](#Root-Me)
+  - [HexEdit](https://hexed.it/)
+  - [CyberChef](https://gchq.github.io/CyberChef)
+  - [Root-Me](https://www.root-me.org/)
+  - [CTFTools](https://github.com/zardus/ctf-tools)
 - [Wikis](#Wikis)
-  - [bi0s](#bi0s)
-  - [OpenToAllCTF](#OpenToAllCTF)
-
-## Links
-
-### Algo
-
-### Blockchain
-
-### Cryptography
-
-### Forensic
-
-### Miscellaneous
-
-### Network
-
-### Osint
-
-### Programming
-
-### Pwn
-
-### Reverse
-
-### Sequence
-
-### Steganography
-
-#### Binwalk
-
-### System
-
-### Web
+  - [bi0s](https://teambi0s.gitlab.io/bi0s-wiki/)
+  - [OpenToAllCTF](https://github.com/OpenToAllCTF/Tips)
+  - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+  - [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
+  - [GeeksForGeeks](https://www.geeksforgeeks.org/)
