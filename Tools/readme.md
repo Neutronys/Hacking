@@ -49,11 +49,12 @@ These challenges juste need some logic and a brain. You can use anyone of the li
 
 ## Reverse
 - [GDB](https://www.sourceware.org/gdb/) - The GNU Project Debugger
+- [AS](https://manpages.ubuntu.com/manpages/kinetic/en/man1/as.1.html) - The GNU Assembler
 - [Radare2](https://github.com/radareorg/radare2) - Lighweight reverse engineering tool
 - [IDA](https://hex-rays.com/ida-free/) - Most used reverse engineering software
 - [Ltrace](https://www.tutorialspoint.com/unix_commands/ltrace.htm) - Intercepts and records dynamic library calls
 - [llvm](https://github.com/llvm/llvm-project) - Low Level Virtual Machine: Optimize your low level codes
-- [nasm](https://github.com/netwide-assembler/nasm) - Cross Platform x86 assember: Only Intel syntax supported <span style="color:blue">some *blue* text</span>
+- [nasm](https://github.com/netwide-assembler/nasm) - Cross Platform x86 assember (**Only Intel syntax supported**)
 
 ## Steganography
 - [AudioStego](https://github.com/danielcardeenas/AudioStego)
