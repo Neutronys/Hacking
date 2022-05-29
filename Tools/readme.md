@@ -9,7 +9,8 @@ This is a non-exhaustive list of websites and hacking tools used by hackers for 
 - [Ethereum](https://ethereum.org/en/developers/docs/) - Ethreum official documentation
 
 ## Cryptography
-- [SageMath](https://www.cryptool.org/) -  Free open-source mathematics software system
+- [SageMath](https://www.sagemath.org/) - Free open-source mathematics software system
+- [CryptTool](https://www.cryptool.org/) - Project to learn cryptography
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
 - [QuipQuip](https://quipqiup.com/) - An online tool for breaking substitution ciphers or vigenere ciphers
 - [OpenSSL](https://github.com/openssl/openssl) - openSSL official documentation
