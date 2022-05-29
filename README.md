@@ -4,7 +4,7 @@ This repository contains a list of many hacking tools and websites to learn ethi
 
 The goal is to sumup in one place all the knowledge i acquired during my learning journey.
 
-# License
+## License
 
 ```
 MIT License
