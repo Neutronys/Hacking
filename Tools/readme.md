@@ -1,5 +1,7 @@
 # Tools
 
+This is a non-exhaustive list of websites and hacking tools used by hackers for real life pentestings or just CTFs. They are sorted by categories according to their purposes.
+
 ## Algo
 - [TheAlgorithms](https://github.com/TheAlgorithms) - Open Source resource for learning Data Structures & Algorithms
 
@@ -22,6 +24,7 @@
 - [Aircrack-Ng](https://github.com/aircrack-ng/aircrack-ng) - Crack 802.11 WEP and WPA-PSK keys
 
 ## Miscellaneous
+These challenges juste need some logic and a brain. You can use anyone of the listed tools.
 
 ## Network
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
@@ -29,7 +32,7 @@
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
 - [Nmap](https://github.com/nmap/nmap) - An open source utility for network discovery and security auditing
 
-# Osint
+## Osint
 - [GoogleMap](https://www.google.com/maps) - Map of the world
 - [WebArchive](https://archive.org/web/) - Wayback machine
 - [CheckUsernames](https://checkusernames.com/) - Check usernames on socila medias
