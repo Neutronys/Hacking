@@ -7,7 +7,7 @@ This repository contains a list of many hacking tools and websites to learn ethi
 ```
 MIT License
 
-Copyright (c) 2022 Léo Raclet
+Copyright (c) 2022 Neutronys
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
