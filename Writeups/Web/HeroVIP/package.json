@@ -16,7 +16,7 @@
     "express-ws": "^5.0.2",
     "node-serialize": "^0.0.4",
     "nodejs-base64": "^2.0.0",
-    "sequelize": "^6.19.2",
+    "sequelize": "^6.28.2",
     "sqlite3": "^5.0.8",
     "ws": "^8.6.0"
   }
